@@ -33,5 +33,4 @@ async def musor(ctx):
 
 
 
-
-bot.run("MTE1NTA3MTE2MTEzNTI4NDI2NQ.GYsd2R.XAQ3KztH0GKL0jDOkq_-lHJiuioNBoDxp707UI")
+bot.run()
